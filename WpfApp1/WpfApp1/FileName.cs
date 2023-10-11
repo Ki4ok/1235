@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace WpfApp1
 {
-    internal class FileName
+    public static class FileName
     {
+        public static int ff()
+        {
+            return 1;
+        }
     }
 }
